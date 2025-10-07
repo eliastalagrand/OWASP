@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "TP3 STRIDE – Application Web",
+    "owner": "Équipe Dev – M2 Cyber ECE",
+    "reviewer": "Professeur",
+    "description": "Application web de login permettant à un utilisateur de saisir ses identifiants (login/mot de passe). Les informations sont transmises au serveur d’authentification, qui vérifie en base de données via des mots de passe hashés et salés. En cas de succès, une session est créée."
+  },
+  "detail": {
+    "contributors": ["Elias Talagrand"],
+    "diagrams": []
+  }
+}
